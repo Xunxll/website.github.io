@@ -367,7 +367,7 @@ footer {
   /* 相册图片设置为3列 */
   .masonry {
     column-count: 2;
-    max-width: 760px;
+    max-width: 600px;
   }
 
   /* 底部菜单设置为3列 */
@@ -391,7 +391,7 @@ footer {
 @media (max-width: 576px) {
   /* logo */
   .logo {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 500;
   }
   
@@ -418,7 +418,7 @@ footer {
    /* 相册图片设置为3列 */
    .masonry {
     column-count: 2;
-    max-width: 540px;
+    max-width: 480px;
   }
 
   /* 底部菜单显示为1列 */
